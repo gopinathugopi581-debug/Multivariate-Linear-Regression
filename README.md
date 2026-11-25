@@ -41,7 +41,9 @@ predictedCO2 = regr.predict(input_data)
 print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 ```
 ## Output:
-### Insert your output
-<img width="1781" height="107" alt="image" src="https://github.com/user-attachments/assets/5c049b26-3aab-4f74-89ab-6c54577f7056" />
+<img width="1498" height="627" alt="image" src="https://github.com/user-attachments/assets/61561bb5-5517-4568-b333-17a31463bde0" />
+<img width="1326" height="166" alt="image" src="https://github.com/user-attachments/assets/55acf6bf-abbc-49dc-9734-0f227cc7a4a8" />
+
+
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
